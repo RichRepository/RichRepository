@@ -19,20 +19,19 @@ Here are some ideas to get you started:
   
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Python</b>
-
+- <b>Python: Determine year of birth</b>
   - ![NameAgeScreenshot](https://github.com/user-attachments/assets/ca9ca5ed-2cbe-44bd-a432-0271f680d8d7)
   - ![NameAgeCodeScreenshot](https://github.com/user-attachments/assets/7d9f1531-5824-4a7e-b09b-1bee549ce67e)
 
 <h2>🔭 Game Development Projects:</h2>
 
-- <b>Unreal Engine</b>
-
+- <b>Unreal Engine: Arena Shooter</b>
   - ![Arena_Shooter_Screenshot4](https://github.com/user-attachments/assets/7887f99b-4c8a-427d-9a47-49a21cf7eecb)
 
 <h2> 🤳 Graphic Design Projects:</h2>
 
-- <b>Cookie Shop GIF</b>
+- <b>Cookie Shop GIF with link to website (disabled)</b>
+  - ![CookieShop](https://github.com/user-attachments/assets/4c9927b0-0ff5-4aff-ab00-6879e1375495)
 
-  - ![image](https://github.com/user-attachments/assets/651cc1d3-40a4-4a28-b568-8db175cb2a1f)
-  - <b> https://github.com/RichRepository/CookieGif/tree/main </b>
+- <b>Resort Advertisement</b>
+  - ![GRA220MagazineAdFinal](https://github.com/user-attachments/assets/9f541bdf-559f-4e4c-b281-0ea073060d11)
