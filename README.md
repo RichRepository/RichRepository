@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, I'm Rose! 
+<h1>I'm Rose! 
   
 <h2>👨‍💻 Programming Projects:</h2>
 
