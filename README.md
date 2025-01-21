@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h1>I'm Rose! 
   
-<h2>🔭 Game Development Projects:</h2>
+<h2> 🎮 Game Development Projects:</h2>
 
 - <b> Unreal Engine: Arena Shooter</b>
   - ![Arena_Shooter_Screenshot4](https://github.com/user-attachments/assets/7887f99b-4c8a-427d-9a47-49a21cf7eecb)
 
-<h2>👨‍💻 Programming Projects:</h2>
+<h2> ✍️ Programming Projects:</h2>
 
 - <b> Python: Determine year of birth</b>
   - ![NameAgeScreenshot](https://github.com/user-attachments/assets/ca9ca5ed-2cbe-44bd-a432-0271f680d8d7)
