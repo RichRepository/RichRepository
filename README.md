@@ -24,11 +24,18 @@ Here are some ideas to get you started:
 
 <h2> ✍️ Programming Projects:</h2>
 
-- <b> Python: Determine year of birth</b>
+- <b> C#.NET: Created a program allowing students to register for classes. Students can only register once per class and only three classes/nine credits </b>
+  - ![WPFRegisterStudentScreenshot4](https://github.com/user-attachments/assets/38a6b38b-eced-4550-9931-391803590cf6)
+![WPFRegisterStudentScreenshot3](https://github.com/user-attachments/assets/70a77ec8-d639-4be9-9337-ed1139da70b0)
+![WPFRegisterStudentScreenshot2](https://github.com/user-attachments/assets/63b4aece-ff5b-41b9-9adc-4cf6757d7a87)
+![WPFRegisterStudentScreenshot](https://github.com/user-attachments/assets/dfaceff3-7d2f-45a6-85df-c65dfb5b7e3f)
+
+
+- <b> Python: Created a program that determines year of birth </b>
   - ![NameAgeScreenshot](https://github.com/user-attachments/assets/ca9ca5ed-2cbe-44bd-a432-0271f680d8d7)
   - ![NameAgeCodeScreenshot](https://github.com/user-attachments/assets/7d9f1531-5824-4a7e-b09b-1bee549ce67e)
  
-- <b> Check in pets </b>
+- <b> LucidChart.com: Created flow chart for program to check in pets </b>
   - ![IT145PetFlowchart](https://github.com/user-attachments/assets/354dbdef-bc4e-4014-b74d-a9dd9b9a47a8)
 
 <h2> 🤳 Graphic Design Projects:</h2>
@@ -52,7 +59,7 @@ Here are some ideas to get you started:
 - <b> Adobe Illustrate: Pictogram Design </b>
   - ![PictogramDesign](https://github.com/user-attachments/assets/dfea7c89-7f3f-4e95-b70e-0de9981034d5)
 
-<h2> 💻 Web Design </h2>h2>
+<h2> 💻 Web Design </h2>
 
 - <b> Adobe Illustrate: Wireframes for Mobile and Desktop </b>
   - ![wireframe](https://github.com/user-attachments/assets/ac8ed02e-51b3-4453-bbf0-fb83cb650754)
