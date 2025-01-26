@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 ![WPFRegisterStudentScreenshot2](https://github.com/user-attachments/assets/63b4aece-ff5b-41b9-9adc-4cf6757d7a87)
 ![WPFRegisterStudentScreenshot](https://github.com/user-attachments/assets/dfaceff3-7d2f-45a6-85df-c65dfb5b7e3f)
 
+- <b> Python: Created a text based game that allows you to move around and collect inventory while avoiding the villian </b>
+  - ![TextBasedGameScreenshot2](https://github.com/user-attachments/assets/437748e6-6aa1-469a-ac65-7f79d73d8177)
+
 
 - <b> Python: Created a program that determines year of birth </b>
   - ![NameAgeScreenshot](https://github.com/user-attachments/assets/ca9ca5ed-2cbe-44bd-a432-0271f680d8d7)
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
 
 <h2> 🤳 Graphic Design Projects:</h2>
 
-- <b> MAYA: Sword Model </b>
+- <b> Autodesk MAYA: Sword Model </b>
   - ![SwordFront](https://github.com/user-attachments/assets/00f61472-a7b6-468f-81f5-868d53ad97ca)
   ![SwordAngled](https://github.com/user-attachments/assets/d69f0c1e-9015-4807-926f-e0407d9cb1b6)
   ![SwordSide](https://github.com/user-attachments/assets/0f52db9a-f40c-498f-a6d3-7f8258f3b6fc)
