@@ -40,6 +40,11 @@ Here are some ideas to get you started:
  
 - <b> LucidChart.com: Created flow chart for program to check in pets </b>
   - ![IT145PetFlowchart](https://github.com/user-attachments/assets/354dbdef-bc4e-4014-b74d-a9dd9b9a47a8)
+- <b> Java: Created a program to check in pets
+  - ![PetBag](https://github.com/user-attachments/assets/a206b3f5-3b9c-40ea-a0c4-5ee15a467e5e)
+![PetBag1](https://github.com/user-attachments/assets/41b63707-6a26-4b3a-a577-9df2d3881a68)
+![PetBagDog](https://github.com/user-attachments/assets/1e93cfb3-7c9e-4f9a-b979-c292f1d6b862)
+![PetBagCat](https://github.com/user-attachments/assets/ff40c627-876f-436d-8276-39706fef2f01)
 
 <h2> 🤳 Graphic Design Projects:</h2>
 
