@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <h1>I'm Rose! 
   
+<h2> 🏫 Transcript</h2>
+
+- <b>[Transcript_ROSERICH_Current.pdf](https://github.com/user-attachments/files/18612163/Transcript_ROSERICH_Current.pdf) </b>
+
 <h2> 🎮 Game Development Projects:</h2>
 
 - <b> Unreal Engine: Arena Shooter</b>
@@ -71,3 +75,4 @@ Here are some ideas to get you started:
 
 - <b> Adobe Illustrate: Wireframes for Mobile and Desktop </b>
   - ![wireframe](https://github.com/user-attachments/assets/ac8ed02e-51b3-4453-bbf0-fb83cb650754)
+
