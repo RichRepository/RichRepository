@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>I'm Rose! 
-  
-<h2> 🏫 Transcript</h2>
-
-- <b>[Transcript_ROSERICH_Current.pdf](https://github.com/user-attachments/files/18612163/Transcript_ROSERICH_Current.pdf) </b>
+<h1>I'm Rose!
 
 <h2> 🎮 Game Development Projects:</h2>
 
